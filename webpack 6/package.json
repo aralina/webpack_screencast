@@ -1,0 +1,32 @@
+{
+  "name": "webpack_six",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.2",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-es2015-node4-loose": "^1.0.0",
+    "babel-preset-prometheusresearch": "^0.1.0",
+    "css-loader": "^0.26.2",
+    "extract-text-webpack-plugin": "^2.0.0",
+    "gulp-babel": "^6.1.2",
+    "path": "^0.12.7",
+    "style-loader": "^0.13.2",
+    "webpack": "^2.2.1"
+  },
+  "devDependencies": {
+    "file-loader": "^0.10.1",
+    "html-loader": "^0.4.5",
+    "pug-loader": "^2.3.0",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^2.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
